@@ -1,0 +1,7 @@
+Features:
+Random number generation between 1 and 100
+User input for guesses with input validation
+Feedback hints guiding the player to the correct number
+Keeps count of the number of guesses
+Goal:
+    A beginner-friendly project demonstrating use of loops, conditionals, random number generation, user input handling, and basic game logic in Python.
